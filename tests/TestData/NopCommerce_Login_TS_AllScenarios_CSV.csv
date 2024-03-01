@@ -1,0 +1,6 @@
+test_case,uname,pass,Exp_Result
+TC1,admin@yourstore.com,admin,Dashboard Visible
+TC2,admin@yourstore.com,test,Login was unsuccessful. Please correct the errors and try again.
+TC3,admin@yourstore.com, ,Login was unsuccessful. Please correct the errors and try again.
+TC4, ,admin,Login was unsuccessful. Please correct the errors and try again.
+TC5,Tester,admin,Login was unsuccessful. Please correct the errors and try again.
